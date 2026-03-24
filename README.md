@@ -29,8 +29,6 @@ A Data engineer passionate about Data Science :bar_chart:. I like automating, bu
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
@@ -45,14 +43,9 @@ A Data engineer passionate about Data Science :bar_chart:. I like automating, bu
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-chaitrashetty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/chaitra-shetty-490ab03a1](https://www.linkedin.com/in/chaitra-shetty-490ab03a1))](https://www.linkedin.com/in/chaitra-shetty-490ab03a1) [![Facebook Badge](https://img.shields.io/badge/-@Chaitra__Shetty-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/share/14h2MaaaPwT/?mibextid=wwXIfr)](https://www.facebook.com/share/14h2MaaaPwT/?mibextid=wwXIfr) [![Instagram Badge](https://img.shields.io/badge/-@Chay._.Shetty-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/chay._.shetty?igsh=eWxuZnpmbjA3d2xw&utm_source=qr)](https://www.instagram.com/chay._.shetty?igsh=eWxuZnpmbjA3d2xw&utm_source=qr)
-[![Website Badge](https://img.shields.io/badge/-chaitrashetty-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://chaitrashetty.me)](https://chaitrashetty.me)[![Gmail Badge](https://img.shields.io/badge/-chayshetty-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chayshetty@gmail.com)](mailto:chayshetty@gmail.com)<a href="https://github.com/chaishe" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@chaishe-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+[![Website Badge](https://img.shields.io/badge/-chaitrashetty-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://chaitrashetty.me)](https://chaitrashetty.me) [![Gmail Badge](https://img.shields.io/badge/-chayshetty-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chayshetty@gmail.com)](mailto:chayshetty@gmail.com) <a href="https://github.com/chaishe" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@chaishe-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/phone-no?text=Hi!) <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-[![HitCount](http://hits.dwyl.com/samujjwaal/samujjwaal.svg)](http://hits.dwyl.com/samujjwaal/samujjwaal)
-![Repo Views](https://views.whatilearened.today/views/github/samujjwaal/samujjwaal.svg?cache=remove)
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png">
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=samujjwaal&repo=UIC-search-engine&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
