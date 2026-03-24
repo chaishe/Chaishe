@@ -41,14 +41,12 @@ A Data engineer passionate about Data Science :bar_chart:. I like automating, bu
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer:  I’m currently learning Data Analysis & Visualization Enthusiast
-- :hourglass_flowing_sand: Exploring and Currently developing skills in machine learning and advanced analytics
-- :rocket: Always ready to collaborate for Dev Experiments
+- :computer: Data alchemist in training | Brewing insights with Python 🧪🐍
+- :monocle_face: Turning data into insights | Exploring ML & AI 🚀
 - :man_technologist: Hands-on experience with data analysis using Python and SQL
-- :dart: <small>Languages used in my public repos - big fan of JavaScript 😛</small>
-- :bulb: I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science
+- :dart: -- I love SQL 🐘
+SELECT 'I ❤️ SQL' AS passion;big fan of Data Science 😛, print("I ❤️ Python 🐍")</small>
 - :zap: Fun fact: I turn coffee into insights using Python and SQL ☕<br>
--   :monocle_face: Interested in everything Cloud Native
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
