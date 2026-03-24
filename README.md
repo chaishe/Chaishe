@@ -1,15 +1,14 @@
 <h2 align="left">
  <abc>
   <br> Hi Fellow Devs <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Chaitra Shetty, A passionate Data Analyst👋🏼👨🏻‍💻 <br>
+  <br> I'm Chaitra Shetty, A passionate Data Analyst👋👨🏻‍💻 <br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" heigth="400 "width="300">
  </abc>
 </h2> 
-
 A Data engineer passionate about Data Science :bar_chart:. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
-### My skills include
+### My skills include :
 
 <p align="center">
 	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
@@ -29,11 +28,9 @@ A Data engineer passionate about Data Science :bar_chart:. I like automating, bu
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -44,8 +41,7 @@ A Data engineer passionate about Data Science :bar_chart:. I like automating, bu
 - :computer: Data alchemist in training | Brewing insights with Python 🧪🐍
 - :monocle_face: Turning data into insights | Exploring ML & AI 🚀
 - :man_technologist: Hands-on experience with data analysis using Python and SQL
-- :dart: -- I love SQL 🐘
-SELECT 'I ❤️ SQL' AS passion;big fan of Data Science 😛, print("I ❤️ Python 🐍")</small>
+- :dart: I speak Python 🐍, drink ☕, and turn raw data into charts 📊… occasionally messy charts -big fan of Data Science 😛, 
 - :zap: Fun fact: I turn coffee into insights using Python and SQL ☕<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
@@ -65,8 +61,8 @@ SELECT 'I ❤️ SQL' AS passion;big fan of Data Science 😛, print("I ❤️ P
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaitraShetty&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChaitraShetty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitrashetty&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitrashetty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -90,19 +86,16 @@ Windows                      9 hrs 5 mins    ███████████�
 Mac                          1 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   15.74 % 
 ```
 
-- 📫 How to reach me:
+:octocat: How to reach me:
     
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
 </div>
-- :octocat: If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
-
 </div>
 
 
