@@ -3,7 +3,7 @@
   <br> Hi Fellow Devs <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Chaitra Shetty, A passionate Data Analyst👋👨🏻‍💻 <br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" heigth="400 "width="300">
+    <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="300">
  </abc>
 </h2> 
 A Data engineer passionate about Data Science :bar_chart:. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
