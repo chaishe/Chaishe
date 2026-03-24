@@ -1,26 +1,43 @@
 <h2 align="left">
  <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> Hi Fellow Devs <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Chaitra Shetty, A passionate Data Analyst👋🏼👨🏻‍💻 <br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
  </abc>
 </h2> 
+
+A Data engineer passionate about Data Science :bar_chart:. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+
+### My skills include
+
+<p align="center">
+	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
+
+</p>
+
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
- <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    </p>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
@@ -28,19 +45,18 @@
 - :hourglass_flowing_sand: Exploring and Currently developing skills in machine learning and advanced analytics
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Hands-on experience with data analysis using Python and SQL
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
+- :dart: <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+- :bulb: I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science
 - :zap: Fun fact: I turn coffee into insights using Python and SQL ☕<br>
+-   :monocle_face: Interested in everything Cloud Native
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-chaitrashetty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/chaitra-shetty-490ab03a1](https://www.linkedin.com/in/chaitra-shetty-490ab03a1))](https://www.linkedin.com/in/chaitra-shetty-490ab03a1) [![Facebook Badge](https://img.shields.io/badge/-@Chaitra__Shetty-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/share/14h2MaaaPwT/?mibextid=wwXIfr)](https://www.facebook.com/share/14h2MaaaPwT/?mibextid=wwXIfr) [![Instagram Badge](https://img.shields.io/badge/-@Chay._.Shetty-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/chay._.shetty?igsh=eWxuZnpmbjA3d2xw&utm_source=qr)](https://www.instagram.com/chay._.shetty?igsh=eWxuZnpmbjA3d2xw&utm_source=qr)
-[![Website Badge](https://img.shields.io/badge/-chaitrashetty-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://chaitrashetty.me)](https://chaitrashetty.me)[![Gmail Badge](https://img.shields.io/badge/-chayshetty-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chayshetty@gmail.com)](mailto:chayshetty@gmail.com)
-
+[![Website Badge](https://img.shields.io/badge/-chaitrashetty-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://chaitrashetty.me)](https://chaitrashetty.me)[![Gmail Badge](https://img.shields.io/badge/-chayshetty-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chayshetty@gmail.com)](mailto:chayshetty@gmail.com)<a href="https://github.com/chaishe" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@chaishe-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/phone-no?text=Hi!) <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=samujjwaal.samujjwaal)
 [![HitCount](http://hits.dwyl.com/samujjwaal/samujjwaal.svg)](http://hits.dwyl.com/samujjwaal/samujjwaal)
 ![Repo Views](https://views.whatilearened.today/views/github/samujjwaal/samujjwaal.svg?cache=remove)
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
@@ -66,18 +82,41 @@
 
 ###
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+SQL                      5 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.29 % 
+Python                   3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   30.79 % 
+CSS                      2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+TypeScript               2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 34 mins       ████████████████░░░░░░░░░   75.00 % 
+
+💻 Operating System: 
+Windows                      9 hrs 5 mins    █████████████████████████   100.00 % 
+Mac                          1 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   15.74 % 
+```
+
+
 - 📫 How to reach me:
     
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
 </div>
+- :octocat: If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉
 
-    * *Besides programming, I've been a [**Technical Content Writer**](https://www.mindbrews.in/author/raghav-khullar/). I'm a **Melophile** for life and love to cook for my friends and family when I'm free.*
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-    * *You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.*
-    
-    * *If you're still reading, why not follow me ?? Let's Connect !!*
 
+
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+
+</div>
 
 
 
